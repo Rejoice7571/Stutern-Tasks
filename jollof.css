@@ -1,0 +1,30 @@
+* {
+    margin: 0%;
+    /*padding: 0%;*/
+    box-sizing: border-box;
+    background-color: rgb(216, 156, 84);
+    width:fit-content;
+}
+h1 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.origin {
+    padding-bottom: 0.5rem;
+}
+.list {
+    padding-top: 0.5rem;
+}
+.tabular {
+    padding-left: 5rem;
+}
+.prepare {
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+.img {
+    /*padding-top: 1.5rem;*/
+    border:2px solid;
+    border-radius: 1rem;
+    margin-top: 1rem;
+}
